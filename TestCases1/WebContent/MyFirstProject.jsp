@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
+<body styles="color: pink"></body>
 <center><h1>My Login Page</h1></center>
 User Name:-<input type="text" id="Username" class="Username">
 <br>
