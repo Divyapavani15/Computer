@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<head>Welcome tio lab</head>
+<head>Welcome tio lab computer</head>
 </body>
 </html>
