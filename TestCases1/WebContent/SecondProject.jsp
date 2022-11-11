@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<head>WelcomeToComputerLabproject1 wecanlearnnewthinks</head>
+<head>WelcomeToComputerLabproject1 wecanlearnnewthinks in lab</head>
 </body>
 </html>
